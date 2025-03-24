@@ -1,0 +1,12 @@
+{
+    "ramens": [
+      {
+        "id": 1,
+        "name": "Shoyu Ramen",
+        "restaurant": "Ramen Shop",
+        "image": "./assets/ramen1.jpg",
+        "rating": 8,
+        "comment": "Salty and delicious"
+      }
+    ]
+  }
